@@ -22,7 +22,6 @@ fun week2_main() {
     }
 }
 
-
 /*
 remember, mutableStateOf 키워드를 사용하지 않으면
 recompose되었을 때 값이 바뀌지 않음
