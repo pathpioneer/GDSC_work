@@ -13,12 +13,14 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.myapplication.week2.ActionButton
 
 @Composable
 fun week2_main() {
-    Column() {
+    Column {
         showCount_1(modifier = Modifier.padding(10.dp))
         showCount_2(modifier = Modifier.padding(10.dp))
+        ActionButton()
     }
 }
 
