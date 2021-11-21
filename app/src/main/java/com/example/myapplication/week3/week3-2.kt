@@ -15,12 +15,7 @@ import androidx.navigation.compose.rememberNavController
 
 @Composable
 fun Navi() {
-    /*
-    A -> B, C
-    B -> C
-    C -> D
-    D -> A
-     */
+
     // navController 생성
     val navController = rememberNavController()
     NavHost(navController = navController, startDestination = "ScreenA") {

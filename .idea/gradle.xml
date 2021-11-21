@@ -11,6 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/week5" />
+            <option value="$PROJECT_DIR$/app/week5-1" />
+            <option value="$PROJECT_DIR$/app/week7" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
